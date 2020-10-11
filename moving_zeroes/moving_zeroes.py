@@ -24,6 +24,6 @@ def moving_zeroes(arr):
 
 if __name__ == '__main__':
     # Use the main function here to test out your implementation
-    arr = [0, 3, 1, 0, -2]
+    arr = [4, 2, 1, 5]
 
     print(f"The resulting of moving_zeroes is: {moving_zeroes(arr)}")
